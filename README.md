@@ -1,4 +1,4 @@
-# Golang Ticket Concert
+# Golang Concert Ticket
 
 Simple project to create the system of Concert Ticket Purchase.
 
